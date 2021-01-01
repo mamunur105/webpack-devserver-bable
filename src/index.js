@@ -7,4 +7,4 @@ const fancyFunc = () => {
 };
 
 const [a, b] = fancyFunc();
-// console.log(a)
+console.log(a)
